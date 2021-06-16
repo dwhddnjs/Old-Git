@@ -454,3 +454,12 @@ footer .logo {
 footer .logo:hover svg {
   fill: #4078c0;
 }
+
+/* MEDIA */
+/* 1024px이하 */
+@media (max-width: 1024px) {
+  header.section .inner {
+    max-width: none;
+
+  }
+}
