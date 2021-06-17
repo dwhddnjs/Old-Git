@@ -88,8 +88,6 @@ a {
 }
 
 /* SUMMARY */
-.summary {
-}
 
 .summary__title {
   font-size: 38px;
@@ -333,9 +331,6 @@ header .sub-menu li a:hover {
   max-width: 1200px;
 }
 
-.section--feature .tiles ul {
-}
-
 .section--feature .tiles li {
   padding: 34px 24px;
   text-align: center;
@@ -368,9 +363,6 @@ header .sub-menu li a:hover {
 }
 
 /* WHERE IS */
-
-.section--where-is {
-}
 
 .section--where-is .inner {
   padding-top: 80px;
@@ -425,9 +417,6 @@ header .sub-menu li a:hover {
 
 /* footer */
 
-footer {
-}
-
 footer .inner {
   padding: 50px;
   border-top: 1px solid #eee;
@@ -465,5 +454,3 @@ footer .logo {
 footer .logo:hover svg {
   fill: #4078c0;
 }
-
-
